@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 Schengen Vizesi Randevu Takip Uygulaması
 
 Modern web arayüzlü, gerçek zamanlı bildirim sistemine sahip Schengen vize randevu kontrol uygulaması. Yeni API entegrasyonu ile daha hızlı ve güvenilir randevu takibi.
@@ -208,3 +209,6 @@ Sorunlarınız için:
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+=======
+# Schengen-Vizesi-Randevu-Arama
+>>>>>>> ba72dbf51dcb109bad9912349ce43cf2589f230c
